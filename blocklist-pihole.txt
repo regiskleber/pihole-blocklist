@@ -2,4 +2,16 @@
 # Last Update: 12-06-2023 with 0 domains
 # https://github.com/regiskleber/pihole-blocklist
 #--------------------------------------------------------#
-dunnastecnologia.com.br
+
+#JOGOS#
+store.steampowered.com
+store.epicgames.com
+store.ubisoft.com
+gog.com
+xbox.com
+ea.com
+us.shop.battle.net
+greenmangaming.com
+nuuvem.com
+humblebundle.com
+fanatical.com
