@@ -15,3 +15,6 @@ greenmangaming.com
 nuuvem.com
 humblebundle.com
 fanatical.com
+
+#ANTIVIRUS#
+update.avastbrowser.com
