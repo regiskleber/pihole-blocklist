@@ -3,12 +3,12 @@
 # https://github.com/regiskleber/pihole-blocklist
 #--------------------------------------------------------#
 #LOCAIS#
-brn001ba994755f.agora.local
-wpad.agora.local
-brw7429af2e4eac.agora.local
-c00000ccaec2.agora.local
-brn30055cf624be.agora.local
-financeiro.agora.local
+#brn001ba994755f.agora.local
+#wpad.agora.local
+#brw7429af2e4eac.agora.local
+#c00000ccaec2.agora.local
+#brn30055cf624be.agora.local
+#financeiro.agora.local
 
 #JOGOS#
 store.steampowered.com
